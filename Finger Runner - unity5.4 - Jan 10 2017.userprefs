@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\FR_GameSceneManger.cs">
+    <Files>
+      <File FileName="Assets\Scripts\FR_MainController.cs" Line="294" Column="34" />
+      <File FileName="Assets\Scripts\FR_GameSceneManger.cs" Line="475" Column="43" />
+      <File FileName="Assets\Scripts\FR_MyButton.cs" Line="22" Column="101" />
+      <File FileName="Assets\Scripts\BgMusicManager.cs" Line="19" Column="3" />
+      <File FileName="Assets\Scripts\FR_SettingsPanel.cs" Line="126" Column="45" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

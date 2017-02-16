@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{56725B47-7F24-FFC8-F127-09B7739637E9}") = "Finger Runner November 14 2016 - unity5", "Assembly-CSharp.csproj", "{5E5DD96C-C37E-69EF-6D80-DC207344FEC5}"
+EndProject
+Project("{56725B47-7F24-FFC8-F127-09B7739637E9}") = "Finger Runner November 14 2016 - unity5", "Assembly-CSharp-Editor.csproj", "{53424BD7-F659-A093-6260-36ABC3CC2ED4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E5DD96C-C37E-69EF-6D80-DC207344FEC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E5DD96C-C37E-69EF-6D80-DC207344FEC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E5DD96C-C37E-69EF-6D80-DC207344FEC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E5DD96C-C37E-69EF-6D80-DC207344FEC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53424BD7-F659-A093-6260-36ABC3CC2ED4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53424BD7-F659-A093-6260-36ABC3CC2ED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53424BD7-F659-A093-6260-36ABC3CC2ED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53424BD7-F659-A093-6260-36ABC3CC2ED4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
